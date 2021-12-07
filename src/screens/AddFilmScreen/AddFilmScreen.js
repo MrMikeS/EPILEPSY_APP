@@ -107,7 +107,7 @@ root: {
 title: {
     fontSize:24,
     fontWeight:'bold',
-    color: '#9932CC',
+    color: '#8176EE',
     margin: 10,
 
 
