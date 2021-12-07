@@ -12,7 +12,7 @@ const CustomButton = ({onPress , text}) => {
 // styling the sign up button
 const styles = StyleSheet.create({
     container : {
-        backgroundColor:'#9932CC',
+        backgroundColor:'#8176EE',
         width: '100%',
         padding: 15,
         marginVertical: 15,
